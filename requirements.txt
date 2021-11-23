@@ -1,0 +1,4 @@
+# pip install -r requirements.txt
+
+colorama>=0.4.4
+packaging>=21.3
